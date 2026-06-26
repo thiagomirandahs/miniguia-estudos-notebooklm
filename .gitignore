@@ -1,0 +1,28 @@
+# ----- Sistema operacional -----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ----- Editores / IDEs -----
+.vscode/
+.idea/
+*.swp
+*~
+
+# ----- Temporários -----
+*.log
+*.tmp
+*.bak
+
+# ----- PDFs pesados (opcional) -----
+# Por padrão, NÃO versionamos PDFs grandes das fontes para manter o repo leve.
+# Eles são abertos e podem ser baixados pelos links em /fontes/README.md.
+# Se quiser versioná-los mesmo assim, comente a linha abaixo.
+fontes/*.pdf
+
+# ----- Ambientes (caso adicione scripts futuramente) -----
+.env
+node_modules/
+__pycache__/
+venv/
+.venv/
