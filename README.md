@@ -323,6 +323,7 @@ informação não estiver nas fontes, responda exatamente "não consta nas fonte
 ```
 miniguia-estudos-notebooklm/
 ├── README.md                       # 👈 Você está aqui (entrega principal e completa)
+├── PASSO-A-PASSO.md                # Guia prático para montar o caderno no NotebookLM
 ├── LICENSE                         # Licença MIT
 ├── .gitignore                      # Ignora temporários, OS e PDFs pesados (opcional)
 ├── docs/
@@ -341,6 +342,8 @@ miniguia-estudos-notebooklm/
 ---
 
 ## 🚀 Como reproduzir este caderno (passo a passo)
+
+> 📋 Versão detalhada e à prova de erro (com os links prontos para copiar): **[PASSO-A-PASSO.md](./PASSO-A-PASSO.md)**.
 
 1. **Acesse** o [NotebookLM](https://notebooklm.google.com) e faça login com sua Conta Google.
 2. Clique em **"Novo notebook"** e dê um nome (ex.: *"IA Generativa e LLMs"*).
